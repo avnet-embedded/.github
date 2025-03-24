@@ -1,0 +1,65 @@
+# SimpleCore end user licensing agreement
+
+By using all or parts of SimpleSwitch™ and/or SimpleCore™ you agree to the
+following terms and conditions
+
+Redistribution and use in binary form, without modification, are permitted
+provided that the following conditions are met:
+
+* Redistributions must reproduce the above copyright notice and the following
+disclaimer in the documentation and/or other materials provided with the
+distribution.
+
+* Neither the name of Tria Technologies nor the names of its suppliers may be used
+to endorse or promote products derived from this software without specific prior
+written permission.
+
+* All of the icons, pictures, logos and other images that are provided with the
+source code may only be used for internal purposes and shall not be
+redistributed to any third party or modified in any way, if not explicitly
+licensed differently
+
+* No reverse engineering, decompilation, or disassembly of this software is
+permitted.
+
+Limited patent license. Tria Technologies grants a world-wide, royalty-free,
+non-exclusive license under patents it now or hereafter owns or controls to
+make, have made, use, import, offer to sell and sell ("Utilize") this software,
+but solely to the extent that any such patent is necessary to Utilize the
+software in conjunction with an Tria Technologies chipset. The patent license shall
+not apply to any other combinations which include this software. No hardware per
+se is licensed hereunder.
+
+DISCLAIMER. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS ANDCONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. This includes
+making this note also available to any user of yours, using software created in
+total or in parts with the help of SimpleSwitch™ and/or SimpleCore™.
+
+## Do not use within a product
+
+You shall not use unmodified SimpleSwitch™ and/or SimpleCore™ as part of any
+product, including even products free of charge. SimpleSwitch™ and/or
+SimpleCore™ are only to be used as part of the development and need to be
+transferred into a compliant setup before use in a product.
+
+You are also required to make any user of yours, using software created in total
+or in parts with the help of SimpleSwitch™ and/or SimpleCore™, aware of this
+requirement.
+
+## Additional license agreements
+
+Some of the offered software items do come with additional license agreements
+that need to be accepted separately. Any contractional relationship arising out
+of such, with the exception of above’s license, will be between you and the
+mentioned party in the additional agreement.
+
+Tria Technologies GmbH is not involved in that relationship, unless it is the named
+party in the agreement.
